@@ -24,7 +24,7 @@ Revenue Optimization: Finding which menu items contribute most to revenue and ho
 Technical Growth: Improving my SQL skills by writing optimized queries, managing large datasets, and generating business-ready insights.
 
 
-- SQLCarousel <a href="https://github.com/anjalishaw760/SQL_pizza_sales/commit/963b5b1534f9e96d54b821024a3403b653d8b639">Carousel view</a>
+- SQL <a href="https://github.com/anjalishaw760/SQL_pizza_sales/commit/963b5b1534f9e96d54b821024a3403b653d8b639"> view</a>
 
 
 Through this project, I realized the true potential of data — how numbers on a screen, when analyzed correctly, can tell compelling stories and drive smarter business decisions.
