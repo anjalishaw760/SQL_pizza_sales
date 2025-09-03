@@ -1,4 +1,4 @@
- ## 📊 Project Title
+ # 📊 Project Title
 
 •  A descriptive name that clearly represents your project (e.g., "Sales Performance Analysis using Power BI")
 
@@ -9,7 +9,7 @@
 Example: "This project analyzes sales performance data to identify key business insights and improve decision-making through interactive dashboards."
 
 
-## ❓ Problem Statement
+# ❓ Problem Statement
 
 * Clearly define the problem you aimed to solve.
 
@@ -20,7 +20,7 @@ Example: "This project analyzes sales performance data to identify key business 
 * Who are the stakeholders (business, customers, students, etc.)?
 
 
-## 📂 Dataset
+# 📂 Dataset
 
 * Source: Mention whether the dataset is public, self-created, or provided by an organization.
 
@@ -31,7 +31,7 @@ Example: "This project analyzes sales performance data to identify key business 
 * Preprocessing: Data cleaning steps (missing values, duplicates, outliers, etc.).
 
 
-## 🛠️ Tools and Technologies
+# 🛠️ Tools and Technologies
 
 * List the tools, libraries, and technologies you used. For example:
 
@@ -44,10 +44,10 @@ Example: "This project analyzes sales performance data to identify key business 
 * Version Control: GitHub
 
 
-## 🔍 Methods
+# 🔍 Methods
 
 
-# Explain your methodology step by step:
+## Explain your methodology step by step:
 
 1. Data Collection – How you gathered the data.
 
@@ -67,7 +67,7 @@ Example: "This project analyzes sales performance data to identify key business 
 6. Validation – Checking accuracy, reliability, or usability of your results.
 
 
-## 💡 Key Insights
+# 💡 Key Insights
 
 * List the major insights discovered through your analysis or dashboard. Example:
 
@@ -78,7 +78,7 @@ Example: "This project analyzes sales performance data to identify key business 
 * 60% of total sales come from top 3 products.
 
 
-## 📊 Dashboard / Model / Output
+# 📊 Dashboard / Model / Output
 
 * Provide screenshots of dashboards or graphs.
 
@@ -87,7 +87,7 @@ Example: "This project analyzes sales performance data to identify key business 
 * Highlight filters, KPIs, and interactive features.
 
 
-## ▶️ How to Run this Project?
+# ▶️ How to Run this Project?
 
 Give clear instructions for anyone who wants to replicate your project.
 
@@ -110,7 +110,7 @@ jupyter notebook analysis.ipynb
 4. Open the Power BI / Tableau file for interactive dashboards.
 
 
-## 📈 Results & Conclusion
+# 📈 Results & Conclusion
 
 * Summarize your findings.
 
@@ -119,7 +119,7 @@ jupyter notebook analysis.ipynb
 * Example: "The dashboard enables stakeholders to monitor KPIs in real time, resulting in improved sales strategy and a projected 15% revenue growth."
 
 
-## 🚀 Future Work
+# 🚀 Future Work
 
 Suggestions for extending the project.
 
@@ -132,7 +132,7 @@ Example:
 * Enhance dashboard with customer segmentation analysis.
 
 
-## ✍️ Author & Contact
+# ✍️ Author & Contact
 
 
 # Author: Your Full Name
