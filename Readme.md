@@ -3,6 +3,10 @@
 •  A descriptive name that clearly represents your project (e.g., "Sales Performance Analysis using Power BI")
 
 
+<img width="1538" height="865" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/7ad732ef-c42f-4cd7-9935-79e2a57140cf" />
+
+
+
 ## 📝 Brief One-Line Summary Overview
 
 •  A short sentence summarizing the essence of the project.
