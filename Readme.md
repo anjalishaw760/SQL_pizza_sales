@@ -139,7 +139,7 @@ Example:
 # ✍️ Author & Contact
 
 
-# Author: Your Full Name
+# Author: Anjali Shaw
 
 📧 Email: [anjalishaw97543@gmail.com]
 
