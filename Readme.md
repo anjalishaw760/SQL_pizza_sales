@@ -150,7 +150,7 @@ Automate reporting for faster business decisions.
 
 Author: Anjali Shaw
 
-: [anjalishaw97543@gmail.com]
+Email: [anjalishaw97543@gmail.com]
 
 Linkdin: [//www.linkedin.com/in/anjali-shaw976]
 
