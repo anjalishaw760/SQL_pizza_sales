@@ -150,8 +150,12 @@ Automate reporting for faster business decisions.
 
 Author: Anjali Shaw
 
-🌐 GitHub: anjalishaw760
+: [anjalishaw97543@gmail.com]
 
-📩 Email: [Add your email if you want]
+Linkdin: [//www.linkedin.com/in/anjali-shaw976]
 
-💼 LinkedIn: [Add your LinkedIn if you want]
+GitHub: [https://github.com/anjalishaw760]
+
+📩 Email: 
+
+💼 LinkedIn: 
