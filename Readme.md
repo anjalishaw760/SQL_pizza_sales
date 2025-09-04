@@ -154,8 +154,4 @@ Author: Anjali Shaw
 
 Linkdin: [//www.linkedin.com/in/anjali-shaw976]
 
-GitHub: [https://github.com/anjalishaw760]
-
-📩 Email: 
-
-💼 LinkedIn: 
+GitHub: [https://github.com/anjalishaw760] 
