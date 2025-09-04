@@ -1,5 +1,8 @@
 # 🍕 Pizza Sales Analysis
 
+<img width="1538" height="865" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/45336d6c-2c21-4529-823b-c130d64d1049" />
+
+
 
 
 ## 📌 Project Title
