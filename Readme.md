@@ -145,4 +145,4 @@ Example:
 
 💼 LinkedIn: [//www.linkedin.com/in/anjali-shaw976]
 
-🐙 GitHub: github.com/yourusername
+🐙 GitHub : [https://github.com/anjalishaw760]
