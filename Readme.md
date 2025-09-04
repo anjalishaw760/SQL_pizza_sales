@@ -141,8 +141,8 @@ Example:
 
 # Author: Your Full Name
 
-📧 Email: yourname@example.com
+📧 Email: [anjalishaw97543@gmail.com]
 
-💼 LinkedIn: linkedin.com/in/yourprofile
+💼 LinkedIn: [//www.linkedin.com/in/anjali-shaw976]
 
 🐙 GitHub: github.com/yourusername
